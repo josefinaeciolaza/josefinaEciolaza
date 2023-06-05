@@ -1,5 +1,5 @@
 ### Hola!, mi nombre es josefina Eciolaza👋, pero me dicen cocó
-Soy Fullstack Developer Y estoy en búsqueda de mi primer experiencia como Desarrolladora FullStack.
+Soy Fullstack Developer y estoy en búsqueda de mi primer experiencia como Desarrolladora FullStack.
 
 
 🔭 Mi objetivo
@@ -8,6 +8,7 @@ Soy Fullstack Developer Y estoy en búsqueda de mi primer experiencia como Desar
 🌱 Mi Background:
  
 Estudie la carrera de desarrollo ful stack en soy henry, el cual es un bootcamp intensivo de JavaScript y otros lenguajes de programación de más de 800 horas. 
+
 📃Mis Skills:
 
 🧩|| Back-End
