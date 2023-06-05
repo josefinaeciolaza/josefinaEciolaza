@@ -1,16 +1,36 @@
-### Hi there 👋
+### Hola!, mi nombre es josefina Eciolaza👋, pero me dicen cocó
+Soy Fullstack Developer
 
-<!--
-**josefinaeciolaza/josefinaEciolaza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  🔭 Mi objetivo:
+Mi principal objetivo es crecer y seguir formandome como desarroladora.
 
-Here are some ideas to get you started:
+ 🌱 Mi Background:
+Estudie la carrera de desarrollo ful stack en sppy henry, que es un bootcamp intensivo de JavaScript y otros lenguajes de programación de más de 800 horas y estoy en búsqueda de mi primer experiencia como Desarrolladora FullStack.
+Me apasiona el codigo y el trabajo em equipo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📃Mis Skills:
+🧩|| Back-End
+-NodeJS
+-Sequelize
+-Express
+-Javascript
+💻|| Front-End
+-Javascript
+-React-Redux
+-HTML
+-CSS
+🗄️|| Database
+-PostgreSQL
+🗄🌱|| Trabajo en equipo
+-Trello
+-Scrum
+-Metodologías ágiles
+🚀Mis Proyectos:
+PI-Pokemon(Fullstack)
+React-Redux | NodeJS | Express | PostgreSQL | Sequeliza
+SPA donde se puede buscar, filtrar, ordenar y hasta crear distintos pokemons!
+https://github.com/josefinaeciolaza/PI-Pokemon
+
+📫Mis Links:
+My LinkedIn: https://www.linkedin.com/in/josefina-eciolaza-7201a8237/
+My E-mail: josefinaecio@gmail.com
