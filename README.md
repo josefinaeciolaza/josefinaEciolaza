@@ -12,12 +12,14 @@ Estudie la carrera de desarrollo ful stack en soy henry, el cual es un bootcamp 
 📃Mis Skills:
 
 🧩|| Back-End
+
 -NodeJS
 -Sequelize
 -Express
 -Javascript
 
 💻|| Front-End
+
 -Javascript
 -React-Redux
 -HTML
@@ -27,16 +29,19 @@ Estudie la carrera de desarrollo ful stack en soy henry, el cual es un bootcamp 
 -PostgreSQL
 
 🌱|| Trabajo en equipo
+
 -Trello
 -Scrum
 -Metodologías ágiles
 
 🚀Mis Proyectos:
+
 PI-Pokemon(Fullstack)
 React-Redux | NodeJS | Express | PostgreSQL | Sequeliza
 SPA donde se puede buscar, filtrar, ordenar y hasta crear distintos pokemons!
 https://github.com/josefinaeciolaza/PI-Pokemon
 
 📫Mis Links:
+
 My LinkedIn: https://www.linkedin.com/in/josefina-eciolaza-7201a8237/
 My E-mail: josefinaecio@gmail.com
