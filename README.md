@@ -11,24 +11,25 @@ Estudie la carrera de desarrollo ful stack en soy henry, el cual es un bootcamp 
 
 📃Mis Skills:
 
-🧩|| Back-End
+🧩 Back-End
 
 -NodeJS
 -Sequelize
 -Express
 -Javascript
 
-💻|| Front-End
+💻 Front-End
 
 -Javascript
 -React-Redux
 -HTML
 -CSS
 
-🗄️|| Database
+🗄️ Database
+
 -PostgreSQL
 
-🌱|| Trabajo en equipo
+🌱 Trabajo en equipo
 
 -Trello
 -Scrum
