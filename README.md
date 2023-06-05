@@ -1,8 +1,8 @@
 ### Hola!, mi nombre es josefina Eciolaza👋, pero me dicen cocó
 Soy Fullstack Developer
 
-  🔭 Mi objetivo:
-Mi principal objetivo es crecer y seguir formandome como desarroladora.
+  🔭 Mi objetivo
+ es crecer y seguir formandome como desarroladora.
 
  🌱 Mi Background:
 Estudie la carrera de desarrollo ful stack en sppy henry, que es un bootcamp intensivo de JavaScript y otros lenguajes de programación de más de 800 horas y estoy en búsqueda de mi primer experiencia como Desarrolladora FullStack.
