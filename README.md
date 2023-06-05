@@ -44,5 +44,6 @@ https://github.com/josefinaeciolaza/PI-Pokemon
 
 📫Mis Links:
 
-My LinkedIn: https://www.linkedin.com/in/josefina-eciolaza-7201a8237/
-My E-mail: josefinaecio@gmail.com
+ LinkedIn: https://www.linkedin.com/in/josefina-eciolaza-7201a8237/
+ 
+ E-mail: josefinaecio@gmail.com
