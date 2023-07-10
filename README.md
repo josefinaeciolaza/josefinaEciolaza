@@ -1,4 +1,4 @@
-### Hola!, mi nombre es josefina Eciolaza👋, pero me dicen cocó
+### Hola!, mi nombre es josefina Eciolaza👋, me dicen cocó
 Soy Fullstack Developer y estoy en búsqueda de mi primer experiencia como Desarrolladora FullStack.
 
 
@@ -41,6 +41,11 @@ PI-Pokemon(Fullstack)
 React-Redux | NodeJS | Express | PostgreSQL | Sequeliza
 SPA donde se puede buscar, filtrar, ordenar y hasta crear distintos pokemons!
 https://github.com/josefinaeciolaza/PI-Pokemon
+
+PF - Mundo GYM (Full Stack)
+Ecommerce de alto rendimiento
+Node.js | Express.js | PostgreSQL | SequelizeCLI | Next.js | Redux Toolkit y mucho más.
+https://github.com/Mundo-Gym/Mundo-Gym
 
 📫Mis Links:
 
