@@ -20,18 +20,18 @@ Estudie la carrera de desarrollo ful stack en soy henry, el cual es un bootcamp 
 
 🚀Mis Proyectos:
 
-PI-Pokemon(Fullstack)
-React-Redux | NodeJS | Express | PostgreSQL | Sequeliza
-SPA donde se puede buscar, filtrar, ordenar y hasta crear distintos pokemons!
-https://github.com/josefinaeciolaza/PI-Pokemon
+MiFinanzs(BackEnd - PM)
+MySQL | NodeJS | Express | Next.js | Sequeliza | Jira
+Aplicación web dinamica de gestión de finanzas personales
+[MiFinanzs](https://github.com/No-Country/c14-17-ft-node-react)
 
-PF - Mundo GYM (Full Stack)
+Mundo GYM (Full Stack)
 Ecommerce de alto rendimiento
 Node.js | Express.js | PostgreSQL | SequelizeCLI | Next.js | Redux Toolkit y mucho más.
-https://github.com/Mundo-Gym/Mundo-Gym
+[Mundo Gym](https://github.com/Mundo-Gym/Mundo-Gym)
 
 📫Mis Links:
 
- LinkedIn: https://www.linkedin.com/in/josefina-eciolaza-7201a8237/
+[Linkedin](https://www.linkedin.com/in/josefinaeciolaza/)
  
  E-mail: josefinaecio@gmail.com
