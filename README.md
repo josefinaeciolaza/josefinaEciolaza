@@ -9,31 +9,14 @@ Soy Fullstack Developer y estoy en búsqueda de mi primer experiencia como Desar
  
 Estudie la carrera de desarrollo ful stack en soy henry, el cual es un bootcamp intensivo de JavaScript y otros lenguajes de programación de más de 800 horas. 
 
-📃Mis Skills:
 
-🧩 Back-End
+| ## 📃 Mis Skills:   | Tecnologías y Herramientas               |
+| ------------------- | --------------------------------------- |
+|  **Back-End**      | NodeJS, Sequelize, Express, Javascript   |
+|  **Front-End**     | Javascript, React-Redux, HTML, CSS       |
+|  **Database**     | PostgreSQL, MySQL                          |
+| **Trabajo en equipo** | Trello, Scrum, Metodologías ágiles, Jira|
 
--NodeJS
--Sequelize
--Express
--Javascript
-
-💻 Front-End
-
--Javascript
--React-Redux
--HTML
--CSS
-
-🗄️ Database
-
--PostgreSQL
-
-🌱 Trabajo en equipo
-
--Trello
--Scrum
--Metodologías ágiles
 
 🚀Mis Proyectos:
 
