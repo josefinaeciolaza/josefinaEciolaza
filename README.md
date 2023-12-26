@@ -17,7 +17,7 @@ Estudie la carrera de desarrollo full stack en henry, el cual es un bootcamp int
 |  **Back-End**      | NodeJS, Sequelize, Express, Javascript, mongoose   |
 |  **Front-End**     | Javascript, React-Redux, HTML, CSS       |
 |  **Database**     | PostgreSQL, MySQL, MongoDB                          |
-| **Trabajo en equipo** | Trello, Scrum, Metodologías ágiles, Jira|
+| **Trabajo en equipo** | Trello, Scrum, Metodologías ágiles, Jira, 	Swagger|
 
 
 🚀Mis Proyectos:
