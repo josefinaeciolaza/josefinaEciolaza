@@ -14,9 +14,9 @@ Estudie la carrera de desarrollo full stack en henry, el cual es un bootcamp int
 
 | ## 📃 Mis Skills:   | Tecnologías y Herramientas               |
 | ------------------- | --------------------------------------- |
-|  **Back-End**      | NodeJS, Sequelize, Express, Javascript   |
+|  **Back-End**      | NodeJS, Sequelize, Express, Javascript, mongoose   |
 |  **Front-End**     | Javascript, React-Redux, HTML, CSS       |
-|  **Database**     | PostgreSQL, MySQL                          |
+|  **Database**     | PostgreSQL, MySQL, MongoDB                          |
 | **Trabajo en equipo** | Trello, Scrum, Metodologías ágiles, Jira|
 
 
